@@ -121,7 +121,6 @@ optimization-1-project/
 ├── system.py               # Energy functions and gradient computations
 ├── algorithm.py            # BFGS optimizer and line search implementation
 ├── plot.py                 # 3D visualization and convergence plotting
-├── optimization_project_complete.pdf  # Detailed project documentation
 ├── project.pdf            # Additional technical documentation
 └── project code.zip       # Archive of source code
 ```
